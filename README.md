@@ -13,7 +13,6 @@ Will Implemenet
 --------------------
 Name | Date Implemented
 ---| --------
-Cubic Spline Interpolation |
 Padé Approximant |
 Markov Switching MultiFractal |
 ----------------------
