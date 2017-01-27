@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/azeefayzon.iml" filepath="$PROJECT_DIR$/.idea/modules/azeefayzon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/azeefayzon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/azeefayzon_main.iml" group="azeefayzon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/azeefayzon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/azeefayzon_test.iml" group="azeefayzon" />
+    </modules>
+  </component>
+</project>

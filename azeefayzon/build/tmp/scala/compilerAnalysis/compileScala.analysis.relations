@@ -1,0 +1,22 @@
+products:
+   src/main/scala/com/azeefayzon/Matrix.scala -> build/classes/main/com/azeefayzon/Matrix$$anonfun$1$$anonfun$apply$1.class
+   src/main/scala/com/azeefayzon/Matrix.scala -> build/classes/main/com/azeefayzon/Matrix$$anonfun$1.class
+   src/main/scala/com/azeefayzon/Matrix.scala -> build/classes/main/com/azeefayzon/Matrix$$anonfun$toString$1.class
+   src/main/scala/com/azeefayzon/Matrix.scala -> build/classes/main/com/azeefayzon/Matrix.class
+   src/main/scala/com/azeefayzon/SingularValueDecomposition.scala -> build/classes/main/com/azeefayzon/SingularValueDecomposition$.class
+   src/main/scala/com/azeefayzon/SingularValueDecomposition.scala -> build/classes/main/com/azeefayzon/SingularValueDecomposition.class
+binary dependencies:
+   src/main/scala/com/azeefayzon/Matrix.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/azeefayzon/Matrix.scala -> /Users/daffancher/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   src/main/scala/com/azeefayzon/SingularValueDecomposition.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/scala/com/azeefayzon/SingularValueDecomposition.scala -> /Users/daffancher/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+source dependencies:
+   src/main/scala/com/azeefayzon/SingularValueDecomposition.scala -> src/main/scala/com/azeefayzon/Matrix.scala
+external dependencies:
+class names:
+   src/main/scala/com/azeefayzon/Matrix.scala -> com.azeefayzon.Matrix
+   src/main/scala/com/azeefayzon/Matrix.scala -> com.azeefayzon.Matrix$$anonfun$1
+   src/main/scala/com/azeefayzon/Matrix.scala -> com.azeefayzon.Matrix$$anonfun$1$$anonfun$apply$1
+   src/main/scala/com/azeefayzon/Matrix.scala -> com.azeefayzon.Matrix$$anonfun$toString$1
+   src/main/scala/com/azeefayzon/SingularValueDecomposition.scala -> com.azeefayzon.SingularValueDecomposition
+   src/main/scala/com/azeefayzon/SingularValueDecomposition.scala -> com.azeefayzon.SingularValueDecomposition$

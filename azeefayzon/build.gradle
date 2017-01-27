@@ -1,0 +1,19 @@
+apply plugin: 'scala'
+apply plugin: 'idea'
+apply plugin: 'application'
+
+mainClassName = 'com.activ.SingularValueDecompsition'
+
+repositories {
+  mavenCentral()
+}
+
+ext {
+  scalaVersion = '2.11.8'
+}
+
+dependencies {
+  compile "org.scala-lang:scala-library:$scalaVersion"
+  compile "org.scala-lang:scala-compiler:$scalaVersion"
+  compile "org.scala-lang:scala-reflect:$scalaVersion"
+}
