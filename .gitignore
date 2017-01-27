@@ -1,3 +1,7 @@
+azeefayzon/build/*
+azeefayzon/.idea/*
+azeefayzon/.gradle/*
+
 # Python IDE files #
 ####################
 *.idlerc/
